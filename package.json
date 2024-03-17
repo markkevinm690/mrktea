@@ -1,0 +1,9 @@
+{
+  "name": "@markkevinm690/mrktea",
+  "version": "1.0.0",
+  "description": "A special Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@markkevinm690",
+  "repository": "https://github.com/markkevinm690/mrktea.git",
+  "license": "MIT"
+}
